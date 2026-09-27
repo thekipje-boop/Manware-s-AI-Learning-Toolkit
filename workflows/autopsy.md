@@ -1,6 +1,3 @@
----
-description: Turn a meaningful fixed bug into a concise learning diagnosis.
----
 
 # Bug Autopsy
 

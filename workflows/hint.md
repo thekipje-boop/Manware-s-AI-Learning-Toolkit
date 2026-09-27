@@ -1,6 +1,3 @@
----
-description: Work through problems systematically: predict first, then get incremental hints.
----
 
 # Hint Ladder
 

@@ -1,6 +1,3 @@
----
-description: Learn an API by investigating its purpose, assumptions, tradeoffs, and failure modes.
----
 
 # API Discovery
 

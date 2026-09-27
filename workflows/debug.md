@@ -1,6 +1,3 @@
----
-description: Debug interactively by testing hypotheses instead of receiving an immediate fix.
----
 
 # Debugging Tutor
 

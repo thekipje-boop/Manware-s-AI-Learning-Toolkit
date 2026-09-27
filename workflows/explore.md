@@ -1,6 +1,3 @@
----
-description: Explore design space: compare alternatives, then test them with constraints.
----
 
 # Design Exploration
 

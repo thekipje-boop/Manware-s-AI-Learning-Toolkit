@@ -1,6 +1,3 @@
----
-description: Start a lightweight learning session and choose the right tutoring mode.
----
 
 # Learning Session
 

@@ -1,6 +1,3 @@
----
-description: Examine unfamiliar code by reconstructing its mental model one question at a time.
----
 
 # Code Reading Examiner
 

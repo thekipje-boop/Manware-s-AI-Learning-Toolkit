@@ -1,6 +1,3 @@
----
-description: Design a non-trivial feature through a focused architecture interview.
----
 
 # Architecture Interview
 

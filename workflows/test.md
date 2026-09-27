@@ -1,6 +1,3 @@
----
-description: Derive useful tests before implementing a function or feature.
----
 
 # Test Design Tutor
 
